@@ -1,5 +1,4 @@
-# 🎬 Movie Recommender Systems with RAG TACD 
-
+# 🎬 Movie Recommender Systems with RAG 
 ## Description
 
 This repository contains the group project developed for the **TACD (Topics in Advanced Data Science)** course at the **University of Porto (FCUP/FEUP)**, academic year 2025/2026. This work was developed by André Vieira,
