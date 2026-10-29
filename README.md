@@ -1,7 +1,7 @@
 # 🎬 Movie Recommender Systems with RAG 
 ## Description
 
-This repository contains the group project developed for the **TACD (Topics in Advanced Data Science)** course at the **University of Porto (FCUP)**, academic year 2025/2026. This work was developed by André Vieira,
+This repository contains the group project developed for the **TACD (Topics in Advanced Data Science)** course at the **University of Porto (FCUP)**, academic year 2025/2026, developed by André Vieira,
 Miguel Silva and Ricardo Ribeiro
 
 The project follows the **CRISP-DM** methodology and is structured in two legs:
