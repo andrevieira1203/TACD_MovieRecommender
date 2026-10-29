@@ -34,7 +34,7 @@ TACD_MovieRecommender/
 │       └── transactions_ar.csv
 │
 ├── Trabalho_GrupoG_P.ipynb       # Final project notebook (full pipeline)
-├── Assignment_TACD_2526.pdf      # Original assignment specification
+├── Assignment_TACD_2526_updated.pdf      # Original assignment specification
 └── README.md                     # Project documentation
 ```
 
