@@ -14,12 +14,12 @@ The project follows the **CRISP-DM** methodology and is structured in two legs:
 ```
 TACD_MovieRecommender/
 │
+├── ml-latest-small/          # MovieLens dataset (ratings, movies, tags, links)
+│   ├── movies.csv
+│   ├── ratings.csv
+│   ├── tags.csv
+│   └── links.csv
 ├── dados/
-│   ├── ml-latest-small/          # MovieLens dataset (ratings, movies, tags, links)
-│   │   ├── movies.csv
-│   │   ├── ratings.csv
-│   │   ├── tags.csv
-│   │   └── links.csv
 │   └── sample_data/              # Subsampled data and pre-computed features
 │       ├── ratings_sample_transformed.csv
 │       ├── basket_matrix_ar.csv
