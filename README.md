@@ -42,7 +42,7 @@ TACD_MovieRecommender/
 
 ## Project Overview
 
-### 🔹 1st Leg — Interaction-Based Recommender Systems
+### 1st Leg — Interaction-Based Recommender Systems
 
 Following the CRISP-DM methodology:
 
@@ -78,7 +78,7 @@ The following recommender system approaches were implemented and compared:
 
 ---
 
-### 🔹 2nd Leg — RAG-Based Semantic Recommendations
+### 2nd Leg — RAG-Based Semantic Recommendations
 
 Extending the first leg with content-based and information retrieval methods:
 
