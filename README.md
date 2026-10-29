@@ -13,12 +13,6 @@ The project follows the **CRISP-DM** methodology and is structured in two legs:
 
 ```
 TACD_MovieRecommender/
-│
-├── ml-latest-small/          # MovieLens dataset (ratings, movies, tags, links)
-│   ├── movies.csv
-│   ├── ratings.csv
-│   ├── tags.csv
-│   └── links.csv
 ├── dados/
 │   ├── basket_matrix_ar.csv
 │   ├── movies_embeddings.npy
@@ -31,7 +25,11 @@ TACD_MovieRecommender/
 │   ├── train_explicit.csv
 │   ├── transactions_ar.csv
 │   └── val_explicit.csv
-│
+├── ml-latest-small/          # MovieLens dataset (ratings, movies, tags, links)
+│   ├── movies.csv
+│   ├── ratings.csv
+│   ├── tags.csv
+│   └── links.csv
 ├── Trabalho_GrupoG_P.ipynb       # Final project notebook (full pipeline)
 ├── Assignment_TACD_2526_updated.pdf      # Original assignment specification
 └── README.md                     # Project documentation
