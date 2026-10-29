@@ -12,7 +12,7 @@ The project follows the **CRISP-DM** methodology and is structured in two legs:
 ## 📁 Repository Structure
 
 ```
-TACD_MovieRecommender/
+TACD_MovieRecommender/        # Pre-processed data and pre-computed features
 ├── dados/
 │   ├── basket_matrix_ar.csv
 │   ├── movies_embeddings.npy
