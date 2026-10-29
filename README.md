@@ -10,12 +10,6 @@ The project follows the **CRISP-DM** methodology and is structured in two legs:
 - **1st Leg** — Implementation and evaluation of multiple interaction-based recommender system approaches on the [MovieLens (ml-latest-small)](https://grouplens.org/datasets/movielens/latest/) dataset.
 - **2nd Leg** — Extension with **Retrieval-Augmented Generation (RAG)** and semantic retrieval using LLMs and a vector database built from movie metadata.
 
----
-
-> Project developed as part of the MSc in Data Science at FCUP/FEUP, under the supervision of **Prof. Alipio Jorge** and **Prof. Nuno Guimarães**.
-
----
-
 ## 📁 Repository Structure
 
 ```
