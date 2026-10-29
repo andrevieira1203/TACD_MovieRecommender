@@ -20,18 +20,17 @@ TACD_MovieRecommender/
 │   ├── tags.csv
 │   └── links.csv
 ├── dados/
-│   └── sample_data/              # Subsampled data and pre-computed features
-│       ├── ratings_sample_transformed.csv
-│       ├── basket_matrix_ar.csv
-│       ├── movies_embeddings.npy
-│       ├── movies_faiss.index
-│       ├── movies_meta.csv
-│       ├── rag_explanations.csv
-│       ├── train_explicit.csv
-│       ├── train_bpr_ncf.csv
-│       ├── test_explicit.csv
-│       ├── val_explicit.csv
-│       └── transactions_ar.csv
+│   ├── basket_matrix_ar.csv
+│   ├── movies_embeddings.npy
+│   ├── movies_faiss.index
+│   ├── movies_meta.csv
+│   ├── rag_explanations.csv
+│   ├── ratings_sample_transformed.csv
+│   ├── test_explicit.csv
+│   ├── train_bpr_ncf.csv
+│   ├── train_explicit.csv
+│   ├── transactions_ar.csv
+│   └── val_explicit.csv
 │
 ├── Trabalho_GrupoG_P.ipynb       # Final project notebook (full pipeline)
 ├── Assignment_TACD_2526_updated.pdf      # Original assignment specification
